@@ -1,0 +1,1 @@
+# rpm-control-library-test
